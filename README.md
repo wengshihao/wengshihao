@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wengshihao&bg_color=ffffff00&hide_border=true&hide_title=true&area=true&area_color=A78BFA&line=8B5CF6&point=14B8A6&color=64748B&radius=12&height=280" alt="Shihao's GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/wengshihao/github-readme-activity-graph/main/generated/activity-graph.svg" alt="Shihao's GitHub activity graph" />
 </p>
